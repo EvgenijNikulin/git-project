@@ -5,3 +5,7 @@ function hello (argument) {
 function goodbye(argument) {
 // body...
 }
+
+function thanks(argument) {
+// body...
+}

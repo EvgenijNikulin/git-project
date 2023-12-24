@@ -9,3 +9,7 @@ function goodbye(argument) {
 function thanks(argument) {
 // Something foк work
 }
+
+function new_func(argument) {
+// body...
+}

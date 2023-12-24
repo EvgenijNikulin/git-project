@@ -1,5 +1,5 @@
 function hello (argument) {
-	console.log("Hello World");
+	console.log("Hello World")
 }
 
 function goodbye(argument) {
@@ -7,5 +7,5 @@ function goodbye(argument) {
 }
 
 function thanks(argument) {
-// body...
+// Something foк work
 }
